@@ -1,2 +1,4 @@
 # nyumaya_audio_testdata
-Dataset for tesing nyumaya audio recognition
+Mini Audio Dataset for tesing nyumaya audio recognition. 
+This is used for doing sanity testing and spotting implementation errors.
+The full testing is done on a different dataset.
